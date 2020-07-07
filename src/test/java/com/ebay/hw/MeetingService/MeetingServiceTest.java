@@ -1,4 +1,4 @@
-package com.ebay.hw;
+package com.ebay.hw.MeetingService;
 
 import com.ebay.hw.MeetingService.MeetingService;
 import com.ebay.hw.Model.DayMeetings;
